@@ -1,4 +1,4 @@
-# Mboalab Community Mentors
+# Mboalab Community Mentors of Outreachy 2022 May-Aug
 
 # Dr. Thomas Mboa
 ## Personal info:
